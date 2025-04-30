@@ -1,0 +1,6 @@
+[submodule "cpp-toolchain"]
+	path = cpp-toolchain
+	url = git@github.com:apsocarras/cpp-toolchain
+[submodule "learn-cpp"]
+	path = learn-cpp
+	url = git@github.com:apsocarras/learn-cpp
